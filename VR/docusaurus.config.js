@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Vulnerability Research & Development',
   tagline: 'CTF\'s, CVE\s, and more',
-  url: 'mjm11015.github.io',
+  url: 'https://mjm11015.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
